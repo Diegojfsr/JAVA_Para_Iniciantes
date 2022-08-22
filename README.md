@@ -1,7 +1,4 @@
 
-Repositório criado para documentar e armazenar dicas, códigos, exercícios e projetos que me ajudaram durante o meu processo de aprendizagem de Java.
-
-
 <h1> 
   Sejam bem-vindos!!! <br>
 </h1>
@@ -20,18 +17,12 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
 <h2 dir="auto"> 🚦 Guia </h2>
 
 <ul dir="auto">
- <li> 
-  Ex1 - Faça uma mensagem de 'Olá Mundo'...<a href="https://">Acessar</a>
- </li>
- <li> 
-  Ex2 - Faça uma saída de soma de 2 inteiros, ex: alert(2 + 2). <a href="https://"> Acessar </a>
- </li>
- <li> 
-  Ex3 - Exiba a quantidade de letras que possuem o texto inserido ao clicar no botão. <a href="https://"> Acessar </a>
- </li>
- <li> 
-  Ex4 - Exiba o 'resto' de uma divisão:. <a href="https://"> Acessar </a>
- </li>
+ <li> Ex1 - Olá mundo, Iniciando na Linguagem Java. <a href="https://">Acessar</a> </li>
+ <li> Ex2 - Como criar comentarios no Java. <a href="https://"> Acessar </a> </li>
+ <li> Ex3 - Variáveis na linguagem Java. <a href="https://"> Acessar </a> </li>
+ <li> Ex4 - Como trabalhar com Operadores Matemáticos em Java. <a href="https://"> Acessar </a> </li>
+ <li> Ex5 - Como trabalhar com Operadores de Comparação em Java. <a href="https://"> Acessar </a> </li>
+  
 </ul>
 
 <h2 dir="auto"> 🤝 Contribuindo </h2>
