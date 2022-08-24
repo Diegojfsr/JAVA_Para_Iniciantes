@@ -10,11 +10,12 @@ public class Variaveis {
 		char sexo = 'M';
 		boolean casado = false;
 		
-		System.out.println(nome);
-		System.out.println(idade);
-		System.out.println(altura);
-		System.out.println(sexo);
-		System.out.println(casado);
+		//System.out.println(nome);
+		//System.out.println(idade);
+		//System.out.println(altura);
+		//System.out.println(sexo);
+		//System.out.println(casado);
+		System.out.print("Meu nome é " + nome + " e minha idade é " + 29);
 	}
 
 }
