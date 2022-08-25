@@ -22,7 +22,6 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
  <li> Ex3 - Variáveis na linguagem Java. <a href="https://"> Acessar </a> </li>
  <li> Ex4 - Como trabalhar com Operadores Matemáticos em Java. <a href="https://"> Acessar </a> </li>
  <li> Ex5 - Como trabalhar com Operadores de Comparação em Java. <a href="https://"> Acessar </a> </li>
-  
 </ul>
 
 <h2 dir="auto"> 🤝 Contribuindo </h2>
