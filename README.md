@@ -14,6 +14,7 @@
 <h2> 🎯 Objetivo </h2>
 A ideia aqui e começar com dicas e exercicios simples, focando em quem tem interesse em aprender Java, porém está meio perdido.
 
+
 <h2 dir="auto"> 🚦 Guia </h2>
 
 <ul dir="auto">
