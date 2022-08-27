@@ -14,6 +14,7 @@
 <h2> 🎯 Objetivo </h2>
 A ideia aqui e começar com dicas e exercicios simples, focando em quem tem interesse em aprender Java, porém está meio perdido.
 
+
 <h2 dir="auto"> 🚦 Guia </h2>
 
 <ul dir="auto">
@@ -23,6 +24,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
  <li> Ex4 - Como trabalhar com Operadores Matemáticos em Java. <a href="https://"> Acessar </a> </li>
  <li> Ex5 - Como trabalhar com Operadores de Comparação em Java. <a href="https://"> Acessar </a> </li>
 </ul>
+
 
 <h2 dir="auto"> 🤝 Contribuindo </h2>
 <p dir="auto">
