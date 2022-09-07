@@ -25,7 +25,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
  <li> Ex6 - Como incrementar ou decrementar uma variável. <a href="https://"> Acessar </a> </li>
  <li> Ex7 - Sobre a estrutura condicional if else. <a href="https://"> Acessar </a> </li>
  <li> Ex8 - Como funciona a estrutura de condição switch case. <a href="https://"> Acessar </a> </li>
- <li> Ex9 - Sobre a estrutura de repetição while. <a href="https://"> Acessar </a> </li>
+ <li> Ex9 - Sobre a estrutura de repetição while(Enquanto). <a href="https://"> Acessar </a> </li>
  <li> Ex10 - Sobre a estrutura de repetição do while(Faça Enquanto). <a href="https://"> Acessar </a> </li>
 </ul>
 
