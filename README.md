@@ -20,8 +20,13 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
  <li> Ex1 - Olá mundo, Iniciando na Linguagem Java. <a href="https://">Acessar</a> </li>
  <li> Ex2 - Como criar comentarios no Java. <a href="https://"> Acessar </a> </li>
  <li> Ex3 - Variáveis na linguagem Java. <a href="https://"> Acessar </a> </li>
- <li> Ex4 - Como trabalhar com Operadores Matemáticos em Java. <a href="https://"> Acessar </a> </li>
- <li> Ex5 - Como trabalhar com Operadores de Comparação em Java. <a href="https://"> Acessar </a> </li>
+ <li> Ex4 - Como trabalhar com Operadores Matemáticos. <a href="https://"> Acessar </a> </li>
+ <li> Ex5 - Como trabalhar com Operadores de Comparação. <a href="https://"> Acessar </a> </li>
+ <li> Ex6 - Como incrementar ou decrementar uma variável. <a href="https://"> Acessar </a> </li>
+ <li> Ex7 - Sobre a estrutura condicional if else. <a href="https://"> Acessar </a> </li>
+ <li> Ex8 - Como funciona a estrutura de condição switch case. <a href="https://"> Acessar </a> </li>
+ <li> Ex9 - Sobre a estrutura de repetição while. <a href="https://"> Acessar </a> </li>
+ <li> Ex10 - Sobre a estrutura de repetição do while(Faça Enquanto). <a href="https://"> Acessar </a> </li>
 </ul>
 
 <h2 dir="auto"> 🤝 Contribuindo </h2>
