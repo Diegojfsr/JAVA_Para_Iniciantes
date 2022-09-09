@@ -11,7 +11,6 @@
  Repositório criado para documentar e armazenar dicas, códigos, exercícios e projetos que me ajudaram durante o meu processo de aprendizagem de Java.
 </h5>
 
-
 <h2> 🎯 Objetivo </h2>
 A ideia aqui e começar com dicas e exercicios simples, focando em quem tem interesse em aprender Java, porém está meio perdido.
 
