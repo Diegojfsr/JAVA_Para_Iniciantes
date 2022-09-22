@@ -28,6 +28,8 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
  <li> Ex10 - Sobre a estrutura de repetição do while(Faça Enquanto). <a href="https://"> Acessar </a> </li>
 </ul>
 
+
+
 <h2 dir="auto"> 🤝 Contribuindo </h2>
 <p dir="auto">
   Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
