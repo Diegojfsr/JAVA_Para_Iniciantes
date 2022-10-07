@@ -9,7 +9,6 @@
 </h3>
 
 
-
 <h5> 
  Repositório criado para documentar e armazenar dicas, códigos, exercícios e projetos que me ajudaram durante o meu processo de aprendizagem de Java.
 </h5>
